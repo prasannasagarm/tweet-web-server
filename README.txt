@@ -1,5 +1,5 @@
-Project Place Task
-===================
+Simple python web server to post tweets from client
+===================================================
 Author: Prasanna Maddu
 Date: 23-06-2015
 
@@ -20,7 +20,7 @@ Running the Server:
 
 Connecting to the server from browser
 -------------------------------------
-1. Type value in BASE_URL variable along with port (For example, I've hosted the server on AWS with domain name justchillout.in and port 8003, so the complete url would be http://justchillout.in:8003)
+1. Type value in BASE_URL variable along with port (For example, I've hosted the server on AWS with domain name google.com and port 8003, so the complete url would be http://google.com:8003)
 
 2. Login using twitter - this will take the user to the twitter login page
 
